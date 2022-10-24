@@ -1,0 +1,15 @@
+D:\CSharp\Console\Calculator_if_else\bin\Debug\net6.0\Calculator_if_else.exe
+D:\CSharp\Console\Calculator_if_else\bin\Debug\net6.0\Calculator_if_else.deps.json
+D:\CSharp\Console\Calculator_if_else\bin\Debug\net6.0\Calculator_if_else.runtimeconfig.json
+D:\CSharp\Console\Calculator_if_else\bin\Debug\net6.0\Calculator_if_else.dll
+D:\CSharp\Console\Calculator_if_else\bin\Debug\net6.0\Calculator_if_else.pdb
+D:\CSharp\Console\Calculator_if_else\obj\Debug\net6.0\Calculator_if_else.csproj.AssemblyReference.cache
+D:\CSharp\Console\Calculator_if_else\obj\Debug\net6.0\Calculator_if_else.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharp\Console\Calculator_if_else\obj\Debug\net6.0\Calculator_if_else.AssemblyInfoInputs.cache
+D:\CSharp\Console\Calculator_if_else\obj\Debug\net6.0\Calculator_if_else.AssemblyInfo.cs
+D:\CSharp\Console\Calculator_if_else\obj\Debug\net6.0\Calculator_if_else.csproj.CoreCompileInputs.cache
+D:\CSharp\Console\Calculator_if_else\obj\Debug\net6.0\Calculator_if_else.dll
+D:\CSharp\Console\Calculator_if_else\obj\Debug\net6.0\refint\Calculator_if_else.dll
+D:\CSharp\Console\Calculator_if_else\obj\Debug\net6.0\Calculator_if_else.pdb
+D:\CSharp\Console\Calculator_if_else\obj\Debug\net6.0\Calculator_if_else.genruntimeconfig.cache
+D:\CSharp\Console\Calculator_if_else\obj\Debug\net6.0\ref\Calculator_if_else.dll
